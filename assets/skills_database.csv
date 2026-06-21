@@ -1,0 +1,116 @@
+skill,category,weight
+Python,Programming,1.0
+SQL,Programming,1.0
+R,Programming,0.8
+Excel,Tools,0.9
+Power BI,Tools,1.0
+Tableau,Tools,1.0
+Looker,Tools,0.7
+SAS,Tools,0.6
+SPSS,Tools,0.5
+Statistics,Analytics,1.0
+Probability,Analytics,0.8
+Machine Learning,Analytics,1.0
+Deep Learning,Analytics,0.8
+Natural Language Processing,Analytics,0.7
+Computer Vision,Analytics,0.6
+Pandas,Library,1.0
+NumPy,Library,0.9
+Matplotlib,Library,0.8
+Seaborn,Library,0.8
+Plotly,Library,0.8
+Scikit-Learn,Library,0.9
+TensorFlow,Library,0.7
+PyTorch,Library,0.7
+Keras,Library,0.6
+ETL,DataEngineering,0.9
+Data Pipelines,DataEngineering,0.8
+Data Warehousing,DataEngineering,0.8
+Data Modeling,DataEngineering,0.8
+Data Cleaning,DataEngineering,1.0
+Data Wrangling,DataEngineering,0.9
+Data Visualization,Analytics,1.0
+A/B Testing,Analytics,0.9
+Hypothesis Testing,Analytics,0.8
+Forecasting,Analytics,0.8
+Time Series Analysis,Analytics,0.8
+Regression Analysis,Analytics,0.8
+Classification,Analytics,0.7
+Clustering,Analytics,0.7
+Snowflake,Cloud,0.8
+AWS,Cloud,0.9
+Azure,Cloud,0.9
+GCP,Cloud,0.8
+Redshift,Cloud,0.7
+BigQuery,Cloud,0.7
+Spark,BigData,0.8
+Hadoop,BigData,0.7
+PySpark,BigData,0.7
+Kafka,BigData,0.6
+Airflow,DataEngineering,0.7
+Git,Tools,0.7
+GitHub,Tools,0.6
+Jira,Tools,0.5
+Power Query,Tools,0.7
+DAX,Tools,0.7
+VBA,Tools,0.5
+MySQL,Database,0.8
+PostgreSQL,Database,0.8
+MongoDB,Database,0.6
+NoSQL,Database,0.6
+Database Management,Database,0.8
+Data Governance,DataEngineering,0.6
+Data Quality,DataEngineering,0.7
+KPI Analysis,BusinessAnalytics,0.8
+Dashboarding,BusinessAnalytics,0.9
+Business Intelligence,BusinessAnalytics,1.0
+Reporting,BusinessAnalytics,0.8
+Storytelling with Data,BusinessAnalytics,0.7
+Stakeholder Management,SoftSkill,0.6
+Communication,SoftSkill,0.6
+Problem Solving,SoftSkill,0.6
+Critical Thinking,SoftSkill,0.6
+Project Management,SoftSkill,0.5
+Agile,SoftSkill,0.5
+Scrum,SoftSkill,0.4
+Statistical Modeling,Analytics,0.8
+Predictive Analytics,Analytics,0.9
+Descriptive Analytics,Analytics,0.7
+Prescriptive Analytics,Analytics,0.6
+Data Mining,Analytics,0.7
+Feature Engineering,Analytics,0.7
+Model Evaluation,Analytics,0.7
+Cross Validation,Analytics,0.6
+NLP,Analytics,0.7
+Text Mining,Analytics,0.6
+Sentiment Analysis,Analytics,0.6
+Web Scraping,Programming,0.6
+APIs,Programming,0.6
+REST APIs,Programming,0.6
+JSON,Programming,0.5
+XML,Programming,0.4
+Linux,Tools,0.5
+Shell Scripting,Programming,0.5
+Docker,DevOps,0.5
+Kubernetes,DevOps,0.4
+CI/CD,DevOps,0.4
+Excel VBA,Tools,0.5
+Google Analytics,Tools,0.6
+Google Sheets,Tools,0.6
+Salesforce,Tools,0.5
+HubSpot,Tools,0.4
+Looker Studio,Tools,0.6
+QlikView,Tools,0.5
+Qlik Sense,Tools,0.5
+Alteryx,Tools,0.6
+Statistical Software,Tools,0.5
+Hypothesis Driven Analysis,Analytics,0.6
+Cohort Analysis,Analytics,0.6
+Funnel Analysis,Analytics,0.6
+Customer Segmentation,Analytics,0.6
+Financial Modeling,BusinessAnalytics,0.6
+Supply Chain Analytics,BusinessAnalytics,0.5
+Marketing Analytics,BusinessAnalytics,0.6
+Excel Pivot Tables,Tools,0.7
+Data Integration,DataEngineering,0.6
+Data Architecture,DataEngineering,0.6
