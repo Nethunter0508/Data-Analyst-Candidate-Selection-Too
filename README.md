@@ -131,10 +131,7 @@ A sample job description and resume are included in `data/job_descriptions/` and
 ## 📸 Screenshots
 
 > Add your own screenshots here after running the app locally:
-> - `Home & Upload` page
-> - `Ranking Dashboard` with charts
-> - `Candidate Profile` radar chart
-> - `Export Reports` page
+
 
 ---
 
